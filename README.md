@@ -18,6 +18,11 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 </p>
 
+<h3>🥰 운영</h3>
+<p>
+  <a href="https://github.com/Jandy-SeoulTech">Jandy</a> : 서울과학기술대학교 개발 동아리 운영 
+</p>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iqeq1945&show_icons=true&theme=radical)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=iqeq1989)](https://solved.ac/iqeq1989)
