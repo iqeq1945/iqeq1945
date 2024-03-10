@@ -14,9 +14,9 @@
 
 <h3>📗 Be Learning </h3>
 <p>
+  <img src="https://img.shields.io/badge/NestJS-E0234EC?style=flat-square&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234EC?style=flat-square&logo=redux&logoColor=white"/>
 </p>
 
 <h3>🥰 운영</h3>
